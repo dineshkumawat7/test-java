@@ -11,6 +11,6 @@ public class Test {
     }
 
     public static void print() {
-        System.out.println("Printing..");
+        System.out.println("Printing..")
     }
 }
